@@ -22,3 +22,4 @@ A comprehensive console-based application built with **C++** to manage student a
 
 ---
 *Created as part of my C++ learning journey.*
+![Code Preview](carbon.png)
